@@ -1,0 +1,454 @@
+{
+    "products": [
+        {
+            "product_name": "Smartphone X",
+            "product_details": "5.5-inch display, 128GB storage, dual-camera",
+            "dispatch_time_days": 2,
+            "price_rupees": 24999.99
+        },
+        {
+            "product_name": "Laptop Pro",
+            "product_details": "15.6-inch, Intel i7, 16GB RAM, 512GB SSD",
+            "dispatch_time_days": 3,
+            "price_rupees": 64999.95
+        },
+        {
+            "product_name": "Wireless Headphones",
+            "product_details": "Noise-cancelling, 30-hour battery life",
+            "dispatch_time_days": 1,
+            "price_rupees": 4999.5
+        },
+        {
+            "product_name": "4K Smart TV",
+            "product_details": "55-inch, HDR, Netflix, Amazon Prime",
+            "dispatch_time_days": 5,
+            "price_rupees": 34999.99
+        },
+        {
+            "product_name": "Coffee Maker",
+            "product_details": "Programmable, 12-cup capacity",
+            "dispatch_time_days": 2,
+            "price_rupees": 1499.99
+        },
+        {
+            "product_name": "Gaming Console",
+            "product_details": "PlayStation 5, 1TB SSD, 4K gaming",
+            "dispatch_time_days": 7,
+            "price_rupees": 44999.0
+        },
+        {
+            "product_name": "Digital Camera",
+            "product_details": "20MP, 4K video, DSLR",
+            "dispatch_time_days": 4,
+            "price_rupees": 29999.75
+        },
+        {
+            "product_name": "Fitness Tracker",
+            "product_details": "Heart rate monitor, sleep tracking",
+            "dispatch_time_days": 1,
+            "price_rupees": 2499.99
+        },
+        {
+            "product_name": "Microwave Oven",
+            "product_details": "1000W, 1.5 cu. ft. capacity",
+            "dispatch_time_days": 2,
+            "price_rupees": 8999.99
+        },
+        {
+            "product_name": "Vacuum Cleaner",
+            "product_details": "Bagless, HEPA filter, 1800W",
+            "dispatch_time_days": 3,
+            "price_rupees": 7999.99
+        },
+        {
+            "product_name": "Bluetooth Speaker",
+            "product_details": "Portable, 20W output, waterproof",
+            "dispatch_time_days": 2,
+            "price_rupees": 1999.99
+        },
+        {
+            "product_name": "Home Theater System",
+            "product_details": "5.1 channel, 1000W, Dolby Atmos",
+            "dispatch_time_days": 6,
+            "price_rupees": 17999.0
+        },
+        {
+            "product_name": "Tablet PC",
+            "product_details": "10-inch display, Android OS, 64GB storage",
+            "dispatch_time_days": 2,
+            "price_rupees": 7999.95
+        },
+        {
+            "product_name": "Refrigerator",
+            "product_details": "20 cu. ft., frost-free, energy-efficient",
+            "dispatch_time_days": 5,
+            "price_rupees": 24999.5
+        },
+        {
+            "product_name": "Coffee Grinder",
+            "product_details": "Burr grinder, adjustable settings",
+            "dispatch_time_days": 1,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "Bluetooth Earbuds",
+            "product_details": "Wireless, noise-cancelling, long battery life",
+            "dispatch_time_days": 2,
+            "price_rupees": 2999.99
+        },
+        {
+            "product_name": "Digital Watch",
+            "product_details": "Smartwatch, heart rate monitor, GPS",
+            "dispatch_time_days": 1,
+            "price_rupees": 4999.99
+        },
+        {
+            "product_name": "Electric Toothbrush",
+            "product_details": "Sonic technology, 4 brushing modes",
+            "dispatch_time_days": 2,
+            "price_rupees": 1299.99
+        },
+        {
+            "product_name": "Blender",
+            "product_details": "1000W motor, multiple speed settings",
+            "dispatch_time_days": 3,
+            "price_rupees": 1999.99
+        },
+        {
+            "product_name": "Smart Thermostat",
+            "product_details": "Wi-Fi enabled, energy-saving",
+            "dispatch_time_days": 1,
+            "price_rupees": 3499.99
+        },
+        {
+            "product_name": "Car Vacuum Cleaner",
+            "product_details": "12V, portable, car interior cleaning",
+            "dispatch_time_days": 4,
+            "price_rupees": 999.95
+        },
+        {
+            "product_name": "Digital Scale",
+            "product_details": "LCD display, accurate measurements",
+            "dispatch_time_days": 2,
+            "price_rupees": 499.99
+        },
+        {
+            "product_name": "Office Chair",
+            "product_details": "Ergonomic, adjustable, mesh back",
+            "dispatch_time_days": 5,
+            "price_rupees": 5999.99
+        },
+        {
+            "product_name": "Smart Doorbell",
+            "product_details": "Video intercom, motion detection",
+            "dispatch_time_days": 1,
+            "price_rupees": 2999.5
+        },
+        {
+            "product_name": "Air Purifier",
+            "product_details": "HEPA filter, 300 sq. ft. coverage",
+            "dispatch_time_days": 3,
+            "price_rupees": 8999.99
+        },
+        {
+            "product_name": "Kitchen Mixer",
+            "product_details": "Stand mixer, multiple attachments",
+            "dispatch_time_days": 2,
+            "price_rupees": 14999.0
+        },
+        {
+            "product_name": "Smart Lock",
+            "product_details": "Keyless entry, smartphone control",
+            "dispatch_time_days": 6,
+            "price_rupees": 3999.75
+        },
+        {
+            "product_name": "Portable Charger",
+            "product_details": "20000mAh, fast charging",
+            "dispatch_time_days": 1,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "External Hard Drive",
+            "product_details": "2TB storage, USB 3.0",
+            "dispatch_time_days": 2,
+            "price_rupees": 4999.99
+        },
+        {
+            "product_name": "Wireless Mouse",
+            "product_details": "Ergonomic, optical sensor",
+            "dispatch_time_days": 3,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "Home Security Camera",
+            "product_details": "1080p, night vision, motion detection",
+            "dispatch_time_days": 4,
+            "price_rupees": 2999.99
+        },
+        {
+            "product_name": "Electric Kettle",
+            "product_details": "1.7L capacity, rapid boil",
+            "dispatch_time_days": 1,
+            "price_rupees": 999.95
+        },
+        {
+            "product_name": "Desk Lamp",
+            "product_details": "LED, adjustable brightness",
+            "dispatch_time_days": 2,
+            "price_rupees": 699.99
+        },
+        {
+            "product_name": "Robot Vacuum Cleaner",
+            "product_details": "Smart navigation, self-charging",
+            "dispatch_time_days": 5,
+            "price_rupees": 19999.99
+        },
+        {
+            "product_name": "Wireless Router",
+            "product_details": "Dual-band, gigabit Ethernet",
+            "dispatch_time_days": 2,
+            "price_rupees": 2499.99
+        },
+        {
+            "product_name": "Digital Photo Frame",
+            "product_details": "10-inch, Wi-Fi, cloud sync",
+            "dispatch_time_days": 3,
+            "price_rupees": 2999.99
+        },
+        {
+            "product_name": "Cordless Phone",
+            "product_details": "DECT 6.0, answering machine",
+            "dispatch_time_days": 1,
+            "price_rupees": 1999.99
+        },
+        {
+            "product_name": "Toaster Oven",
+            "product_details": "4-slice, temperature control",
+            "dispatch_time_days": 2,
+            "price_rupees": 1499.99
+        },
+        {
+            "product_name": "Wireless Keyboard",
+            "product_details": "Slim design, multimedia keys",
+            "dispatch_time_days": 1,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "Shower Head",
+            "product_details": "Rainfall shower, adjustable spray",
+            "dispatch_time_days": 3,
+            "price_rupees": 999.5
+        },
+        {
+            "product_name": "Backpack",
+            "product_details": "Laptop compartment, waterproof",
+            "dispatch_time_days": 2,
+            "price_rupees": 1999.99
+        },
+        {
+            "product_name": "Hair Dryer",
+            "product_details": "Ionic technology, 1875W",
+            "dispatch_time_days": 4,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "Portable Grill",
+            "product_details": "Charcoal, foldable, BBQ party",
+            "dispatch_time_days": 5,
+            "price_rupees": 2499.99
+        },
+        {
+            "product_name": "Digital Thermometer",
+            "product_details": "Infrared, quick readings",
+            "dispatch_time_days": 1,
+            "price_rupees": 499.99
+        },
+        {
+            "product_name": "Coffee Table",
+            "product_details": "Wooden, modern design",
+            "dispatch_time_days": 2,
+            "price_rupees": 5999.99
+        },
+        {
+            "product_name": "Crock Pot",
+            "product_details": "6-quart, slow cooker",
+            "dispatch_time_days": 3,
+            "price_rupees": 1499.0
+        },
+        {
+            "product_name": "Car Phone Mount",
+            "product_details": "Universal, suction cup",
+            "dispatch_time_days": 2,
+            "price_rupees": 399.75
+        },
+        {
+            "product_name": "Electric Fan",
+            "product_details": "Oscillating, remote control",
+            "dispatch_time_days": 6,
+            "price_rupees": 1999.99
+        },
+        {
+            "product_name": "Digital Radio",
+            "product_details": "FM/AM, alarm clock",
+            "dispatch_time_days": 1,
+            "price_rupees": 999.95
+        },
+        {
+            "product_name": "Portable Speaker",
+            "product_details": "Bluetooth, waterproof",
+            "dispatch_time_days": 2,
+            "price_rupees": 1299.99
+        },
+        {
+            "product_name": "Yoga Mat",
+            "product_details": "Non-slip, 6mm thickness",
+            "dispatch_time_days": 1,
+            "price_rupees": 499.99
+        },
+        {
+            "product_name": "Hiking Backpack",
+            "product_details": "40L capacity, hydration compatible",
+            "dispatch_time_days": 4,
+            "price_rupees": 1999.5
+        },
+        {
+            "product_name": "Blu-ray Player",
+            "product_details": "4K UHD, Wi-Fi streaming",
+            "dispatch_time_days": 3,
+            "price_rupees": 3999.99
+        },
+        {
+            "product_name": "Handheld Vacuum",
+            "product_details": "Cordless, 20-minute runtime",
+            "dispatch_time_days": 2,
+            "price_rupees": 999.99
+        },
+        {
+            "product_name": "Wireless Charger",
+            "product_details": "Qi-enabled, fast charging",
+            "dispatch_time_days": 1,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "HDMI Cable",
+            "product_details": "High-speed, 10 feet",
+            "dispatch_time_days": 2,
+            "price_rupees": 499.99
+        },
+        {
+            "product_name": "Raincoat",
+            "product_details": "Waterproof, hooded, lightweight",
+            "dispatch_time_days": 3,
+            "price_rupees": 999.99
+        },
+        {
+            "product_name": "Car Seat Cover",
+            "product_details": "Universal fit, breathable",
+            "dispatch_time_days": 1,
+            "price_rupees": 1499.95
+        },
+        {
+            "product_name": "Digital Voice Recorder",
+            "product_details": "8GB storage, USB connection",
+            "dispatch_time_days": 4,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "Camping Tent",
+            "product_details": "4-person, waterproof, easy setup",
+            "dispatch_time_days": 5,
+            "price_rupees": 2999.99
+        },
+        {
+            "product_name": "Television Stand",
+            "product_details": "Wood, storage shelves",
+            "dispatch_time_days": 1,
+            "price_rupees": 1999.99
+        },
+        {
+            "product_name": "Bicycle Helmet",
+            "product_details": "Safety certified, adjustable",
+            "dispatch_time_days": 2,
+            "price_rupees": 499.99
+        },
+        {
+            "product_name": "Fire Extinguisher",
+            "product_details": "5 lb capacity, multipurpose",
+            "dispatch_time_days": 6,
+            "price_rupees": 899.99
+        },
+        {
+            "product_name": "Electric Scooter",
+            "product_details": "250W motor, foldable, long range",
+            "dispatch_time_days": 2,
+            "price_rupees": 14999.0
+        },
+        {
+            "product_name": "Wall Clock",
+            "product_details": "Analog, silent sweep, 12-inch",
+            "dispatch_time_days": 3,
+            "price_rupees": 799.75
+        },
+        {
+            "product_name": "Shampoo",
+            "product_details": "Natural, moisturizing, 16 oz",
+            "dispatch_time_days": 4,
+            "price_rupees": 199.99
+        },
+        {
+            "product_name": "Conditioner",
+            "product_details": "Volumizing, sulfate-free, 12 oz",
+            "dispatch_time_days": 1,
+            "price_rupees": 299.99
+        },
+        {
+            "product_name": "Sunscreen",
+            "product_details": "SPF 30, broad-spectrum, 4 oz",
+            "dispatch_time_days": 2,
+            "price_rupees": 149.99
+        },
+        {
+            "product_name": "Tennis Racket",
+            "product_details": "Carbon fiber, grip size 4 3/8",
+            "dispatch_time_days": 5,
+            "price_rupees": 999.99
+        },
+        {
+            "product_name": "Running Shoes",
+            "product_details": "Men's, size 10, cushioned",
+            "dispatch_time_days": 1,
+            "price_rupees": 5999.99
+        },
+        {
+            "product_name": "Dining Table",
+            "product_details": "Solid wood, seats 6",
+            "dispatch_time_days": 2,
+            "price_rupees": 14999.0
+        },
+        {
+            "product_name": "Couch",
+            "product_details": "3-seater, leather, reclining",
+            "dispatch_time_days": 3,
+            "price_rupees": 29999.99
+        },
+        {
+            "product_name": "Kitchen Knife Set",
+            "product_details": "Stainless steel, 6 pieces",
+            "dispatch_time_days": 1,
+            "price_rupees": 999.95
+        },
+        {
+            "product_name": "Toolbox",
+            "product_details": "Metal, 19-inch, removable tray",
+            "dispatch_time_days": 2,
+            "price_rupees": 799.99
+        },
+        {
+            "product_name": "Backpack",
+            "product_details": "Laptop compartment, waterproof",
+            "dispatch_time_days": 1,
+            "price_rupees": 1999.99
+        }
+    ]
+}
